@@ -1,1 +1,2 @@
-# Digital-Humanities- relevant information in order to use the software and data. 
+#Digital-Humanities--Platt-F--Imperial-Cult-QGIS- 
+Included in this repository is a link to a QGIS project with delimited text layers of lists containing site names and coordinates for imperial cult sites. The CSV files also in this repository are the files which were used to create the layers in the QGIS project. To look at the specifics of each layer, the CSV files can be used alongside the software. 
